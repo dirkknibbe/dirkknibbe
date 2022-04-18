@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dirkknibbe
+- 👋 Hi, I’m Dirk 
 - 👀 I’m interested in building useful, decentralized applications.
 - 🌱 I’m currently learning full stack web development with Lambda
 - 💞️ I’m looking to collaborate on ideas
