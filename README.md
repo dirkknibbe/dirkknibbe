@@ -1,6 +1,6 @@
 ## About me
 
-✌️ My name is Dirk and I've recently graduated from a full-time, 9-mo web development bootcamp
+#### ✌️ My name is Dirk and I've recently graduated from a full-time, 9-mo web development bootcamp
 
 🔭 I’m currently working on a uniswap clone
 
