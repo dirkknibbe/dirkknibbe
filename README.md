@@ -4,8 +4,6 @@ About me
 
 🔭 I’m currently working on a uniswap clone
 
-👯 I’m looking to collaborate on web3 ideas
-
 🤝 I’m looking for help with software development work
 
 🌱 I’m currently learning ethereum dapp development
