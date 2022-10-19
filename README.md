@@ -2,7 +2,7 @@
 
 #### ✌️ My name is Dirk and I've recently graduated from a full-time, 9-mo web development bootcamp
 
-🔭 I’m currently working on a uniswap clone
+🔭 I’m currently working on a NFT marketplace
 
 🤝 I’m looking for help with software development work
 
