@@ -1,4 +1,4 @@
-# Hi, I'm Dirk Knibbe
+<img src="https://github.com/dirkknibbe/dirkknibbe/blob/main/header.png" alt="It's me Dirk Knibbe">
 
 ## About me
 
