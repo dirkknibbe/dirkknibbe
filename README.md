@@ -1,4 +1,4 @@
-# Hi, Im Dirk Knibbe
+# Hi, I'm Dirk Knibbe
 
 ## About me
 
