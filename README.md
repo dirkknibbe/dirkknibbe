@@ -1,6 +1,8 @@
+# Hi, Im Dirk Knibbe
+
 ## About me
 
-#### ✌️ My name is Dirk and I've recently graduated from a full-time, 9-mo web development bootcamp
+#### ✌️ I've recently graduated from a full-time, 9-mo web development bootcamp
 
 🔭 I’m currently working on an NFT marketplace
 
