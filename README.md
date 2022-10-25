@@ -29,5 +29,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=dirkknibbe&icon=2&color=1)](https://visitcount.itsvg.in)
