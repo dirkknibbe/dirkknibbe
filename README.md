@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning ethereum dapp development
 
-🚶🚶🚶 Follow the journey at [dirkdevelops.com](dirkdevelops.com)
+🚶🚶🚶 Follow the journey at [dirkdevelops.com](https://dirkdevelops.com/)
 
 
 ## 🌐 Socials:
