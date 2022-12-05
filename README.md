@@ -8,7 +8,7 @@
 
 🤝 I’m looking for help with software development work
 
-🌱 I’m currently learning ethereum dapp development
+🌱 I’m currently learning ethereum app development
 
 🚶🚶🚶 Follow the journey at [dirkdevelops.com](https://dirkdevelops.com/)
 
