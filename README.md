@@ -4,11 +4,9 @@
 
 #### ✌️ I've recently graduated
 
-🔭 I’m currently working on an NFT marketplace
+🤝 I'm a Software Developer at Bass Pro Shops
 
-🤝 I’m looking for help with software development work
-
-🌱 I’m currently learning ethereum app development
+🌱 I’m currently learning Java, Angular and Ethereum app development
 
 🚶🚶🚶 Follow the journey at [dirkdevelops.com](https://dirkdevelops.com/)
 
