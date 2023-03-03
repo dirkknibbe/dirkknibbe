@@ -2,11 +2,9 @@
 
 ## About me
 
-#### ✌️ I've recently graduated
+🤝 I'm currently a Software Developer at Bass Pro Shops
 
-🤝 I'm a Software Developer at Bass Pro Shops
-
-🌱 I’m currently learning Java, Angular and Ethereum app development
+🌱 I’m learning Java, Angular and Ethereum app development
 
 🚶🚶🚶 Follow the journey at [dirkdevelops.com](https://dirkdevelops.com/)
 
